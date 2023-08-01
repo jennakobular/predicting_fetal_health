@@ -36,3 +36,6 @@ Artificial Intelligence (AI) has the potential to make the healthcare system muc
 - Random Forest = random forest model
 - visualizations - data visualizations
 - Report - Entire report and analysis 
+
+
+link to dataset used: https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification
